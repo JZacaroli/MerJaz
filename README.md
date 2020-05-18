@@ -5,9 +5,9 @@ Explanation and demo: https://youtu.be/BDlRnR_TsY4
 
 Modules required:
 
-librosa
-matplotlib
-numpy
-sklearn
-IPython
-ipywidgets
+- librosa
+- matplotlib
+- numpy
+- sklearn
+- IPython
+- ipywidgets
